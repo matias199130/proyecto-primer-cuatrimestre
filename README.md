@@ -223,6 +223,26 @@ export default router;
 ```
 ---
 
+***EJEMPLOS:***
+
+- #### **Landing Page**
+
+![Landing Page](/Proyecto-Escuela/src/public/img/Landing.jpg)
+
+- #### **Create Page**
+
+![Create Page](/Proyecto-Escuela/src/public/img/create.jpg)
+
+- #### **List Page**
+
+![List Page](/Proyecto-Escuela/src/public/img/listPage.jpg)
+
+- #### **Edit Page**
+
+![Edit Page](/Proyecto-Escuela/src/public/img/EditPage.jpg)
+
+-------
+
 ### *En este código, hemos agregado las rutas para agregar, editar, eliminar y listar personas, con ejemplos básicos de cómo manejar las solicitudes y respuestas para cada operación. Recuerda reemplazar los nombres de los campos y las consultas SQL con los nombres reales de tu base de datos. Si necesitas más ayuda o tienes alguna otra pregunta, no dudes en decírmelo.*
 
 **Mucha suerte y a trabajar!!**
