@@ -1,5 +1,5 @@
 import {createPool} from 'mysql2/promise';
-import 'dotenv/config';
+/* import 'dotenv/config'; */
 
 const pool = createPool({
     host: "localhost",
